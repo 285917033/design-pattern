@@ -3,4 +3,16 @@
   <groupId>com.wbd</groupId>
   <artifactId>design-pattern</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  
+  <!-- spring-core 包含了cglib -->
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>3.2.15.RELEASE</version>
+</dependency>
+  
+  </dependencies>
+  
 </project>
