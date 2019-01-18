@@ -16,6 +16,8 @@ public class LowState extends AbstractState {
 
 	}
 
+
+
 	@Override
 	public void checkState() {
 		if(score>=90) {
