@@ -33,6 +33,8 @@ public class Message {
 		this.title = title;
 		this.context = context;
 	}
+
+	
 	
 	
 	

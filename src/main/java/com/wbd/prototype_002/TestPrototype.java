@@ -34,6 +34,8 @@ public class TestPrototype {
 		System.out.println(p1.getSex());
 		System.out.println(p1.getFried());
 		
+		System.out.println(p2.getFried());
+		
 		System.out.println("-----------------------");
 		
 		list1.add("java");
